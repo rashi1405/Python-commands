@@ -1,0 +1,4 @@
+1. pip install virtualenv
+2. virtualenv env
+3. source env/bin/activate
+4. deactivate  
